@@ -1,13 +1,12 @@
-<picture>
-  <source srcset="./assets/ascii-fit-animated.svg" type="image/svg+xml" />
-  <img align="right" width="390" src="./assets/ascii-fit.png" alt="ASCII-art portrait of Hemang Doshi" />
-</picture>
+<p align="center">
+  <img width="100%" src="./assets/hemang-3d-header.svg" alt="HEMANG — building tools that make software less chaotic" />
+</p>
 
-```text
-┌─ hemang@github ──────────────────────────────┐
-│ building tools that make software less chaotic │
-└──────────────────────────────────────────────┘
-```
+<p align="center">
+  <img width="560" src="./assets/ascii-fit-animated.svg" alt="Animated ASCII-art portrait of Hemang Doshi" />
+</p>
+
+<p align="center"><sub><i>Me, looking down at the bug that “cannot possibly happen in production.”</i></sub></p>
 
 # Hey, I'm Hemang.
 
@@ -26,21 +25,17 @@ Current rabbit holes:
 
 > Curious enough to prototype it. Stubborn enough to make it reliable.
 
-<p>
+<p align="center">
   <a href="https://hemang-portfolio-zeta.vercel.app/"><strong>portfolio ↗</strong></a>
-  ·
+  &nbsp;·&nbsp;
   <a href="https://github.com/hemang-doshi?tab=repositories">projects</a>
-  ·
-  <a href="https://www.linkedin.com/in/hemang-doshi-236aa6244/">linkedin</a>
-  ·
-  <a href="https://www.instagram.com/hemang._26/">instagram</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hemang-doshi-236aa6244/"><img width="25" height="25" src="./assets/linkedin.svg" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/hemang._26/"><img width="25" height="25" src="./assets/instagram.svg" alt="Instagram" /></a>
 </p>
 
 My portfolio is the fuller story: interactive project demos, creator experiments, and the rabbit holes behind the repositories. **[Step inside the goofy internet machine →](https://hemang-portfolio-zeta.vercel.app/)**
-
-<sub><i>Me, looking down at the bug that “cannot possibly happen in production.”</i></sub>
-
-<br clear="right" />
 
 ## Things I've shipped
 

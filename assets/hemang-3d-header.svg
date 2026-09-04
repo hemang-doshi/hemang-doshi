@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Hemang Doshi</title>
+  <desc id="desc">A three-dimensional HEMANG wordmark filled and surrounded by ASCII characters.</desc>
+
+  <defs>
+    <pattern id="ascii-fill" width="112" height="34" patternUnits="userSpaceOnUse">
+      <rect width="112" height="34" fill="#101719"/>
+      <text x="0" y="24" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17" font-weight="700" fill="#f1dfbd">01{}[]&lt;/&gt;*#</text>
+    </pattern>
+    <filter id="soft-glow" x="-20%" y="-30%" width="140%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#39c5a5"/>
+      <stop offset="1" stop-color="#1d6258"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="336" rx="24" fill="#080b0d" stroke="#29423d" stroke-width="4"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" fill="#56706b" font-size="17" opacity="0.72">
+    <text x="42" y="50">hemang-doshi / README.md</text>
+    <text x="42" y="102">:: ::::: 01 10 // build { idea } -&gt; ship();</text>
+    <text x="760" y="94">&lt;curiosity&gt; + &lt;chaos/&gt; + 0xCAFE</text>
+    <text x="48" y="232">#%+=-:. 01101 [prototype] :::::::::::::</text>
+    <text x="825" y="224">:::::::: system.ready = true; //////////</text>
+    <text x="925" y="292">{ useful: true, boring: false }</text>
+  </g>
+
+  <g font-family="Arial Black, Impact, system-ui, sans-serif" font-size="154" font-weight="900" letter-spacing="8" text-anchor="middle">
+    <text x="624" y="207" fill="#163a35">HEMANG</text>
+    <text x="618" y="201" fill="#1c5149">HEMANG</text>
+    <text x="612" y="195" fill="#28766a">HEMANG</text>
+    <text x="606" y="189" fill="url(#edge)" stroke="#39c5a5" stroke-width="3">HEMANG</text>
+    <text x="600" y="183" fill="url(#ascii-fill)" stroke="#f1dfbd" stroke-width="3">HEMANG</text>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-weight="700" filter="url(#soft-glow)">
+    <text x="18" y="169" font-size="24" fill="#39c5a5">&lt;/&gt; :: 0101 =&gt;</text>
+    <text x="972" y="176" font-size="24" fill="#d34b38">=&gt; {} [] #@</text>
+    <text x="316" y="207" font-size="18" fill="#d34b38">++**##</text>
+    <text x="806" y="133" font-size="18" fill="#39c5a5">01:://</text>
+  </g>
+
+  <text x="600" y="284" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="22" font-weight="700" letter-spacing="2" fill="#f1dfbd">BUILDING TOOLS THAT MAKE SOFTWARE LESS CHAOTIC</text>
+  <rect x="993" y="263" width="12" height="26" fill="#39c5a5">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.48;0.5;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
