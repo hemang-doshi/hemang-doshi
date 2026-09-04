@@ -2,8 +2,6 @@
 
 <img width="430" src="./assets/hemang-3d-header.svg" alt="HEMANG — building tools that make software less chaotic" />
 
-# Hey, I'm Hemang.
-
 I'm a CS graduate by credential, but a builder by default.
 
 I'm the kind of programmer who notices a repeated annoyance, opens a new repository, and accidentally turns the fix into a real product. I care about software being useful, understandable, and pleasant to use—not merely technically correct. That usually puts me somewhere between **product thinking, systems engineering, and “wait, I can automate this.”**
@@ -65,11 +63,11 @@ local-first whenever it makes sense
 ## A highly scientific development timeline
 
 <p align="center">
-  <a href="https://giphy.com/gifs/SANDK2zAhctsWpJOjx"><img src="https://media.giphy.com/media/SANDK2zAhctsWpJOjx/giphy.gif" width="270" alt="Kermit typing intensely" /></a>
+  <a href="https://giphy.com/gifs/viralhog-viral-hog-kitten-fascinated-by-the-text-its-typing-gwjociZExlDqAJWXgO"><img src="https://media.giphy.com/media/gwjociZExlDqAJWXgO/giphy.gif" width="270" alt="Cat sitting on a keyboard and watching code appear" /></a>
   &nbsp;&nbsp;
-  <a href="https://giphy.com/gifs/corsairgaming-comedy-this-is-fine-dumpster-fire-mPDgClr9FCLOedGhfc"><img src="https://media.giphy.com/media/mPDgClr9FCLOedGhfc/giphy.gif" width="270" alt="This is fine while everything is on fire" /></a>
+  <a href="https://giphy.com/gifs/sydneysprague-computer-oldcomputer-terribleplaces-B3boElCzs5vpSHyfQU"><img src="https://media.giphy.com/media/B3boElCzs5vpSHyfQU/giphy.gif" width="270" alt="Raccoon operating an old computer" /></a>
 </p>
 
-<p align="center"><sub>“This should be a quick fix.” &nbsp;→&nbsp; several architectural decisions later</sub></p>
+<p align="center"><sub>staff engineers reviewing my pull request</sub></p>
 
 Still curious. Still shipping. Probably turning one more minor inconvenience into a repository.
