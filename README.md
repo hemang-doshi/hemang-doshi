@@ -1,0 +1,82 @@
+<picture>
+  <source srcset="./assets/ascii-fit-animated.svg" type="image/svg+xml" />
+  <img align="right" width="390" src="./assets/ascii-fit.png" alt="ASCII-art portrait of Hemang Doshi" />
+</picture>
+
+```text
+┌─ hemang@github ──────────────────────────────┐
+│ building tools that make software less chaotic │
+└──────────────────────────────────────────────┘
+```
+
+# Hey, I'm Hemang.
+
+I'm a CS graduate by credential, but a builder by default.
+
+I'm the kind of programmer who notices a repeated annoyance, opens a new repository, and accidentally turns the fix into a real product. I care about software being useful, understandable, and pleasant to use—not merely technically correct. That usually puts me somewhere between **product thinking, systems engineering, and “wait, I can automate this.”**
+
+Most days, I'm moving between a terminal, a browser, and some suspiciously unnecessary hardware. I like clean interfaces, explicit systems, measurable claims, honest documentation, and projects with just enough personality to feel human.
+
+Current rabbit holes:
+
+- agent infrastructure that saves context instead of eating it
+- local-first software with boring, reliable internals
+- APIs that connect AI to useful, real-world data
+- tiny hardware side quests that absolutely could have stayed software
+
+> Curious enough to prototype it. Stubborn enough to make it reliable.
+
+<p>
+  <a href="https://hemang-portfolio-zeta.vercel.app/"><strong>portfolio ↗</strong></a>
+  ·
+  <a href="https://github.com/hemang-doshi?tab=repositories">projects</a>
+  ·
+  <a href="https://www.linkedin.com/in/hemang-doshi-236aa6244/">linkedin</a>
+  ·
+  <a href="https://www.instagram.com/hemang._26/">instagram</a>
+</p>
+
+My portfolio is the fuller story: interactive project demos, creator experiments, and the rabbit holes behind the repositories. **[Step inside the goofy internet machine →](https://hemang-portfolio-zeta.vercel.app/)**
+
+<sub><i>Me, looking down at the bug that “cannot possibly happen in production.”</i></sub>
+
+<br clear="right" />
+
+## Things I've shipped
+
+| Project | What it does | Built with |
+|---|---|---|
+| [**DevDeck**](https://github.com/hemang-doshi/dev-deck) | A local runtime control plane that lets humans and AI coding agents manage multi-service development stacks without drowning in terminal output. | TypeScript · Node.js · CLI |
+| [**Agent Memory**](https://github.com/hemang-doshi/agent-memory) | Local-first, auditable project memory for coding agents—with hybrid retrieval, safety gates, MCP, adapters, and SQLite storage. | TypeScript · SQLite · MCP |
+| [**Instagram Creator Intelligence API**](https://github.com/hemang-doshi/instagram-creator-intelligence-api) | A production-ready, read-only Instagram analytics backend built for Custom GPT Actions. | Next.js · TypeScript · Meta Graph API |
+| [**AuxDeck**](https://github.com/hemang-doshi/aux-deck) | A tiny ESP32 sidecar that shows live Spotify artwork, metadata, progress, and waveform data from a Mac. | ESP32 · Python · C++ · BLE |
+
+## The toolbox
+
+```text
+languages     TypeScript · JavaScript · Python · C/C++ · SQL
+building      Next.js · Node.js · React · REST APIs · CLIs
+agent stuff   MCP · tool design · evals · retrieval · local-first memory
+systems       SQLite · ESP32 · BLE · Wi-Fi · GitHub Actions · Vercel
+```
+
+## The build philosophy
+
+```text
+useful > impressive
+working > almost perfect
+measured > vibes
+local-first whenever it makes sense
+```
+
+## A highly scientific development timeline
+
+<p align="center">
+  <a href="https://giphy.com/gifs/SANDK2zAhctsWpJOjx"><img src="https://media.giphy.com/media/SANDK2zAhctsWpJOjx/giphy.gif" width="270" alt="Kermit typing intensely" /></a>
+  &nbsp;&nbsp;
+  <a href="https://giphy.com/gifs/corsairgaming-comedy-this-is-fine-dumpster-fire-mPDgClr9FCLOedGhfc"><img src="https://media.giphy.com/media/mPDgClr9FCLOedGhfc/giphy.gif" width="270" alt="This is fine while everything is on fire" /></a>
+</p>
+
+<p align="center"><sub>“This should be a quick fix.” &nbsp;→&nbsp; several architectural decisions later</sub></p>
+
+Still curious. Still shipping. Probably turning one more minor inconvenience into a repository.
