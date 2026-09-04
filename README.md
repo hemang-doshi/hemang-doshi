@@ -1,12 +1,6 @@
-<p align="center">
-  <img width="100%" src="./assets/hemang-3d-header.svg" alt="HEMANG — building tools that make software less chaotic" />
-</p>
+<img align="right" width="390" src="./assets/ascii-fit-animated.svg" alt="Animated ASCII-art portrait of Hemang Doshi" />
 
-<p align="center">
-  <img width="560" src="./assets/ascii-fit-animated.svg" alt="Animated ASCII-art portrait of Hemang Doshi" />
-</p>
-
-<p align="center"><sub><i>Me, looking down at the bug that “cannot possibly happen in production.”</i></sub></p>
+<img width="430" src="./assets/hemang-3d-header.svg" alt="HEMANG — building tools that make software less chaotic" />
 
 # Hey, I'm Hemang.
 
@@ -36,6 +30,10 @@ Current rabbit holes:
 </p>
 
 My portfolio is the fuller story: interactive project demos, creator experiments, and the rabbit holes behind the repositories. **[Step inside the goofy internet machine →](https://hemang-portfolio-zeta.vercel.app/)**
+
+<sub><i>Me, looking down at the bug that “cannot possibly happen in production.”</i></sub>
+
+<br clear="right" />
 
 ## Things I've shipped
 
